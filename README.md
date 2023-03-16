@@ -8,7 +8,7 @@ Use it for whatever you want, and be sure to reach us out on [Twitter](https://t
 
 Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
 
-*The previous version built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0).*
+_The previous version built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0)._
 
 ## Live demo
 
@@ -20,40 +20,49 @@ Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.co
 
 ## Table of contents
 
-* [Usage](#usage)
-  * [Project setup](#project-setup)
-  * [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
-  * [Compiles and minifies for production](#compiles-and-minifies-for-production)
-  * [Customize configuration](#customize-configuration)
-* [Support notes](#support-notes)            
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+- [Free React landing page template](#free-react-landing-page-template)
+  - [Live demo](#live-demo)
+  - [Open PRO](#open-pro)
+  - [Table of contents](#table-of-contents)
+  - [Usage](#usage)
+    - [Project setup](#project-setup)
+      - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+      - [Compiles and minifies for production](#compiles-and-minifies-for-production)
+      - [Customize configuration](#customize-configuration)
+    - [Support notes](#support-notes)
+  - [Credits](#credits)
+  - [Terms and License](#terms-and-license)
+  - [About Us](#about-us)
+  - [Stay in the loop](#stay-in-the-loop)
 
 ## Usage
 
 This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ### Project setup
+
 ```
 npm install
 ```
 
 #### Compiles and hot-reloads for development
+
 ```
 npm run dev
 ```
 
 #### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 #### Customize configuration
+
 See [Configuration Reference](https://vitejs.dev/guide/).
 
 ### Support notes
+
 We are shipping our templates with a very basic React configuration to let you quickly get into the development process, but we don't discourage you from using any other configuration or framework built on the top of React. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
 
 For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
@@ -61,6 +70,8 @@ For more information about what support covers, please see our (FAQs)[https://cr
 ## Credits
 
 - [Nucleo](https://nucleoapp.com/)
+- https://github.com/gitname/react-gh-pages
+- https://github.com/cruip/open-react-template
 
 ## Terms and License
 
